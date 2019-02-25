@@ -1,3 +1,3 @@
 Dmitry Sorokin
-https://htmlacademy.ru/courses/basic-html
-https://htmlacademy.ru/courses/basic-css
+HTML CSS Basics: https://www.codecademy.com/users/Sorrocking/achievements
+
